@@ -88,7 +88,7 @@ My goal is to become a skilled software developer and build useful, reliable, an
 ---
 
 - GitHub: [@jatinjod](https://github.com/jatinjod)
-- Email: [My Email Address](jatinnkumar007@gmail.com)
+- Email: [My Email Address](mailto:jatinnkumar007@gmail.com)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jatin-064413383/)
 
 ---
