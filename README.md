@@ -130,17 +130,12 @@ Security Tooling         ███████████░░░░░░░
 
 ## 📊 GitHub Activity
 
-<div align="center">
+GitHub activity and contribution history are available directly on my GitHub profile.
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinjod&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
+- 🔐 [SentinelAI](https://github.com/jatinjod/SentinelAI) — security-focused source-code scanning platform
+- 💰 [FinanceAI](https://github.com/jatinjod/finance-project) — full-stack personal finance management application
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjod&layout=compact&hide_border=true&theme=transparent" height="165">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=jatinjod&hide_border=true&theme=transparent" width="70%">
-
-</div>
+[**View GitHub Profile →**](https://github.com/jatinjod)
 
 ---
 
