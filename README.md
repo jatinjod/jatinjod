@@ -1,111 +1,135 @@
-<!-- ======================= PROFILE HEADER ======================= -->
+<!-- ======================= HERO ======================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jatinjod/jatinjod/main/assets/profile-banner.svg" width="100%" alt="Jatin — Software Developer & Backend Engineer"/>
-</div>
+
+# JATIN
+
+### Software Developer · Backend Engineer
+
+**B.S Computer Application · Delhi, India**
+
+Building **backend systems, APIs, security tooling and full-stack applications** with Python.
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/jatinjod"><img src="https://img.shields.io/badge/GitHub-jatinjod-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jatin-064413383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:jatinnkumar007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
-
-<br/><br/>
-
-**Backend Engineering · REST APIs · Databases · Security Tooling · Web Development**
+<a href="https://github.com/jatinjod"><img src="https://img.shields.io/badge/GitHub-jatinjod-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jatin-064413383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jatinnkumar007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 About
 
-I’m **Jatin**, a B.S Computer Application student and software developer based in Delhi.
+I'm a **B.S Computer Application student and software developer** focused on building practical software rather than only learning syntax.
 
-I like building software that goes beyond a demo — with **APIs, databases, authentication, testing and deployment** as part of the engineering process.
+My current focus is **backend engineering and web development** — designing APIs, working with databases, implementing authentication, writing tests, and deploying applications.
+
+I enjoy taking a problem from **idea → architecture → implementation → testing → deployment**.
+
+### Engineering mindset
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  IDEA  →  ARCHITECTURE  →  BUILD  →  TEST  →  DEPLOY  →  ↻  │
-└──────────────────────────────────────────────────────────────┘
+Understand → Design → Build → Test → Deploy → Iterate
 ```
 
 ---
 
-## `> tech --stack`
+## ⚙️ Technical Stack
 
-| Layer | Technologies |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
+
+### Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### Engineering & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Core areas:** API Design · Database Design · Authentication · Testing · Debugging · Deployment · Security Tooling
+
+---
+
+# 🚀 Selected Projects
+
+## 01 · SentinelAI
+
+### Developer Security & Source-Code Scanning Platform
+
+**SentinelAI** is a security-focused developer platform that scans source code and turns detected issues into structured security findings.
+
+**Highlights**
+
+- 🔍 Source-code scanning and vulnerability detection
+- 🔐 Hardcoded-secret detection
+- 🚦 Severity-based findings
+- ⚡ REST API built with FastAPI
+- 🗄️ PostgreSQL persistence with SQLAlchemy
+- 🧪 Automated testing with pytest
+- 🖥️ Web dashboard and admin workflows
+- 🐳 Docker-based development workflow
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `Docker`
+
+**[LIVE DEMO →](https://sentinelai-frontend-t31x.onrender.com/)** · **[SOURCE CODE →](https://github.com/jatinjod/SentinelAI)**
+
+---
+
+## 02 · FinanceAI
+
+### Full-Stack Personal Finance Management Platform
+
+**FinanceAI** is a web application for managing personal finances through income and expense tracking, dashboards, budgets, savings goals and reporting.
+
+**Highlights**
+
+- 🔐 User authentication
+- 💰 Income and expense management
+- 📊 Financial dashboard and analytics
+- 🎯 Budgets and savings goals
+- 📄 Financial reports
+- 🤖 Financial insights
+- 🛡️ Admin panel
+- 🌐 REST-based backend architecture
+
+**Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `JavaScript` `REST APIs`
+
+**[LIVE DEMO →](https://finance-project-1-oyv6.onrender.com/)** · **[SOURCE CODE →](https://github.com/jatinjod/finance-project)**
+
+---
+
+## 🧩 What I Work With
+
+| Domain | Focus |
 | :--- | :--- |
-| **Languages** | Python · JavaScript · HTML · CSS |
-| **Backend** | FastAPI · Flask · REST APIs |
-| **Data** | PostgreSQL · MySQL · SQLAlchemy |
-| **Testing** | pytest · API testing · Debugging |
+| **Backend** | Python · FastAPI · Flask · REST APIs |
+| **Databases** | PostgreSQL · MySQL · SQLAlchemy |
+| **Web** | JavaScript · HTML · CSS |
+| **Security** | Source scanning · Secret detection · Security findings |
+| **Quality** | pytest · Debugging · API testing |
 | **DevOps** | Git · GitHub · Docker · Deployment |
-| **Engineering** | Authentication · API Design · Database Design · Security Tooling |
 
 ---
 
-# `> ls ./projects`
+## 🧠 Currently Building My Skills
 
-### 🔐 SentinelAI
-**Developer Security & Source-Code Scanning Platform**
-
-A security-focused platform that scans source code and converts detected issues into structured findings.
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `Docker`
-
-**What it does**
-- Source-code scanning
-- Hardcoded-secret detection
-- Severity-based findings
-- REST API + PostgreSQL persistence
-- Web dashboard and admin workflows
-- Automated testing
-
-**[↗ Live Demo](https://sentinelai-frontend-t31x.onrender.com/)** · **[⌘ Source](https://github.com/jatinjod/SentinelAI)**
-
----
-
-### 💰 FinanceAI
-**Full-Stack Personal Finance Management Platform**
-
-A finance application for tracking income and expenses, managing budgets and savings goals, viewing analytics and generating reports.
-
-`Python` `Flask` `MySQL` `SQLAlchemy` `JavaScript` `REST APIs`
-
-**What it does**
-- Authentication
-- Income & expense tracking
-- Financial dashboard
-- Budgets & savings goals
-- Reports & financial insights
-- Admin panel
-
-**[↗ Live Demo](https://finance-project-1-oyv6.onrender.com/)** · **[⌘ Source](https://github.com/jatinjod/finance-project)**
-
----
-
-## `> focus --now`
-
-```text
-Backend Architecture       ████████████████░░
-API Development             ███████████████░░░
-Database Engineering        ██████████████░░░░
-Testing & Debugging        █████████████░░░░░
-Security Tooling            ████████████░░░░░░
-Deployment & DevOps         ███████████░░░░░░░
-```
-
-*Areas I’m actively developing — not proficiency scores.*
-
----
-
-## `> learning`
-
-- Production-oriented FastAPI architecture
-- PostgreSQL + SQLAlchemy
+- Backend architecture and scalable API design
+- PostgreSQL and SQLAlchemy
 - Automated testing and code quality
 - Docker and deployment workflows
 - Secure software development
@@ -113,37 +137,46 @@ Deployment & DevOps         ███████████░░░░░░�
 
 ---
 
-## `> philosophy`
+## 📌 Development Philosophy
 
-> **Build software that can be understood, tested, maintained and shipped.**
+> **Don't just build features. Build software that can be understood, tested, maintained and deployed.**
 
 ```text
-01  Understand the problem
-02  Design the system
-03  Build the smallest useful version
-04  Test the important paths
-05  Deploy and observe
-06  Improve from feedback
+Problem
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Iteration
 ```
 
 ---
 
-## `> open --opportunities`
+## 🎯 Open To
 
-**Software Development · Backend Engineering · Web Development · Internships · Entry-Level Roles**
+**Software Development · Backend Engineering · Web Development · Internships · Entry-Level Opportunities**
 
-I’m interested in real-world engineering work where I can contribute, learn from experienced developers and keep improving through hands-on projects.
+I'm looking for opportunities where I can contribute to real products, learn from experienced engineers and grow through hands-on software development.
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### `BUILD  •  TEST  •  SHIP  •  IMPROVE`
+<div align="center">
 
 <a href="https://github.com/jatinjod"><b>GitHub</b></a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/jatin-064413383/"><b>LinkedIn</b></a>
 &nbsp; · &nbsp;
 <a href="mailto:jatinnkumar007@gmail.com"><b>Email</b></a>
+
+<br/><br/>
+
+<sub>BUILD · TEST · SHIP · IMPROVE</sub>
 
 </div>
