@@ -16,11 +16,11 @@ Building practical software with **Python, APIs, databases, and security-focused
 
 ---
 
-## About
+## 👨‍💻 About
 
 I'm a **B.S Computer Application** student focused on building real-world software and strengthening my foundations in backend engineering and web development.
 
-I enjoy taking an idea from **problem → architecture → implementation → testing → deployment** and learning from every iteration.
+I enjoy taking an idea from **problem → architecture → implementation → testing → deployment** and improving it through iteration.
 
 ### What I work on
 
@@ -33,15 +33,17 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & Databases
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -49,6 +51,7 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ### Tools & Engineering
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -58,12 +61,12 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🔐 SentinelAI
-**Security-focused source-code scanning platform**
+**Developer security & source-code scanning platform**
 
-SentinelAI is a developer-oriented security project that analyzes source code and detects security-related findings such as **hardcoded secrets**.
+SentinelAI analyzes source code and turns detected security issues into structured findings through a FastAPI backend and web dashboard.
 
 **Highlights**
 - Source-code security scanning
@@ -71,20 +74,20 @@ SentinelAI is a developer-oriented security project that analyzes source code an
 - Severity-based findings
 - REST API backend
 - PostgreSQL + SQLAlchemy integration
-- Admin dashboard
+- Web/admin dashboard
 - Automated tests with pytest
 - Docker-based development workflow
 
 **Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `REST API` `pytest` `Docker`
 
-**Repository:** [View SentinelAI](https://github.com/jatinjod/SentinelAI)
+**[📦 Repository](https://github.com/jatinjod/SentinelAI)** · **[🚀 Live Demo](https://sentinelai-frontend-t31x.onrender.com/)**
 
 ---
 
 ### 💰 FinanceAI
 **Personal finance management web application**
 
-FinanceAI is a full-stack finance application built around income and expense management, dashboards, reports and financial insights.
+FinanceAI is a full-stack finance application for income and expense management, dashboards, reports and financial insights.
 
 **Highlights**
 - User authentication
@@ -96,14 +99,13 @@ FinanceAI is a full-stack finance application built around income and expense ma
 - Notifications
 - Admin panel
 
-**Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Bootstrap` `REST API`
+**Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript` `REST API`
 
-**Repository:** [View FinanceAI](https://github.com/jatinjod/finance-project)  
-**Live Demo:** [Open FinanceAI](https://finance-project-1-oyv6.onrender.com)
+**[📦 Repository](https://github.com/jatinjod/finance-project)** · **[🚀 Live Demo](https://finance-project-1-oyv6.onrender.com)**
 
 ---
 
-## Engineering Focus
+## 🎯 Engineering Focus
 
 ```text
 Backend Engineering      ███████████████░░░
@@ -114,11 +116,11 @@ Software Engineering     ████████████░░░░░░
 Security Tooling         ███████████░░░░░░░
 ```
 
-> The bars represent current areas of focus, not proficiency scores.
+> Current areas of focus — not proficiency scores.
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Advanced Python
 - FastAPI and backend architecture
@@ -131,7 +133,7 @@ Security Tooling         ███████████░░░░░░░
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -143,7 +145,7 @@ Security Tooling         ███████████░░░░░░░
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm interested in **software development, backend engineering, web development, and internship/entry-level opportunities**.
 
