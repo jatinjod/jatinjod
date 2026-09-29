@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+<rect width="1000" height="500" rx="14" fill="#070d12"/>
+<text x="500" y="35" fill="#f1f5f9" font-family="Arial" font-size="22" font-weight="700" text-anchor="middle">signals</text>
+<line x1="20" y1="55" x2="980" y2="55" stroke="#26343c"/>
+<rect x="20" y="75" width="460" height="395" fill="none" stroke="#26343c"/>
+<rect x="520" y="75" width="460" height="395" fill="none" stroke="#26343c"/>
+<g transform="translate(250 270)">
+<polygon points="0,-145 126,-45 78,118 -78,118 -126,-45" fill="none" stroke="#26343c"/>
+<polygon points="0,-112 97,-35 60,88 -60,88 -97,-35" fill="#4a4459" stroke="#a8f34a" stroke-width="3"/>
+<g stroke="#26343c"><line x1="0" y1="0" x2="0" y2="-145"/><line x1="0" y1="0" x2="126" y2="-45"/><line x1="0" y1="0" x2="78" y2="118"/><line x1="0" y1="0" x2="-78" y2="118"/><line x1="0" y1="0" x2="-126" y2="-45"/></g>
+<g fill="#f8fafc" font-family="Arial" font-size="11" text-anchor="middle"><text y="-160">Backend / APIs</text><text x="145" y="-48">Databases</text><text x="92" y="140">Testing</text><text x="-92" y="140">Security</text><text x="-145" y="-48">Web</text></g></g>
+<g transform="translate(750 270)">
+<polygon points="0,-145 126,-45 78,118 -78,118 -126,-45" fill="none" stroke="#26343c"/>
+<polygon points="0,-105 94,-34 57,85 -61,92 -93,-33" fill="#4a4459" stroke="#a8f34a" stroke-width="3"/>
+<g stroke="#26343c"><line x1="0" y1="0" x2="0" y2="-145"/><line x1="0" y1="0" x2="126" y2="-45"/><line x1="0" y1="0" x2="78" y2="118"/><line x1="0" y1="0" x2="-78" y2="118"/><line x1="0" y1="0" x2="-126" y2="-45"/></g>
+<g fill="#f8fafc" font-family="Arial" font-size="11" text-anchor="middle"><text y="-160">Python</text><text x="145" y="-48">JavaScript</text><text x="92" y="140">Docker</text><text x="-92" y="140">Git</text><text x="-145" y="-48">SQL</text></g></g>
+</svg>
