@@ -1,203 +1,101 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    JATIN • GITHUB PROFILE                    -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hi,%20I'm%20Jatin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-### 💻 Software Developer • Backend & Web Development
-
-**B.S Computer Application Student · Delhi, India**
-
-*Building practical applications, APIs and security-focused developer tools.*
+<img src="https://raw.githubusercontent.com/jatinjod/jatinjod/main/assets/profile-terminal.svg" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/jatinjod">
-<img src="https://img.shields.io/badge/GitHub-jatinjod-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jatin-064413383/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/JATIN-SOFTWARE%20DEVELOPER-0b1117?style=for-the-badge&labelColor=0b1117&color=7dd3fc"/>
+<img src="https://img.shields.io/badge/DELHI-INDIA-0b1117?style=for-the-badge&labelColor=0b1117&color=55e6b3"/>
 
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## 🧑‍💻 About Me
-
-I'm a **B.S Computer Application student** focused on software development, backend engineering and web technologies.
-
-- 🔭 Building **SentinelAI**
-- 💰 Built **FinanceAI**
-- 🐍 Working primarily with **Python**
-- ⚡ Building **FastAPI & Flask REST APIs**
-- 🗄️ Working with **PostgreSQL, MySQL & SQLAlchemy**
-- 🧪 Learning testing, debugging and secure development
-- 🐳 Exploring Docker and deployment workflows
-- 📚 Always learning and building
-
-</td>
-<td width="45%" valign="top">
-
-## ⚡ Quick Facts
-
-**Focus**
-> Backend + Web Development
-
-**Languages**
-> Python · JavaScript · HTML · CSS
-
-**Backend**
-> FastAPI · Flask · REST APIs
-
-**Databases**
-> PostgreSQL · MySQL
-
-**Tools**
-> Git · GitHub · Docker · Postman · pytest
-
-**Current Project**
-> 🛡️ SentinelAI
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+## SIGNALS
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite" />
-
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://raw.githubusercontent.com/jatinjod/jatinjod/main/assets/signals.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## PROFILE.LOG
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Jatin** — B.S Computer Application student building practical software with Python.
 
-## 🛡️ SentinelAI
+```text
+ROLE        Software Developer
+FOCUS       Backend • Web • APIs
+LANGUAGE    Python • JavaScript
+BACKEND     FastAPI • Flask • REST
+DATABASE    PostgreSQL • MySQL • SQLAlchemy
+TOOLING     Git • GitHub • Docker • pytest • Postman
+CURRENT     SentinelAI
+PREVIOUS    FinanceAI
+LOCATION    Delhi, India
+```
+
+---
+
+## PROJECTS
+
+### 01 / SENTINELAI
 
 **Developer Security & Source-Code Scanning Platform**
 
-A security-focused platform that scans source code and converts detected issues into structured findings.
-
-**Built with**
+Security-focused developer tooling for scanning source code and converting detected issues into structured findings.
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `Docker`
 
-**Key Features**
+**SCAN** → **DETECT** → **CLASSIFY** → **REPORT**
 
-- 🔍 Source-code scanning
-- 🔐 Hardcoded-secret detection
-- 🚦 Severity-based findings
-- ⚡ REST API
-- 🗄️ PostgreSQL persistence
-- 🧪 Automated testing
-- 🖥️ Dashboard & admin workflows
+[VIEW SOURCE →](https://github.com/jatinjod/SentinelAI)
 
-<a href="https://github.com/jatinjod/SentinelAI">View Repository →</a>
+### 02 / FINANCEAI
 
-</td>
-<td width="50%" valign="top">
+**Full-Stack Personal Finance Management Platform**
 
-## 💰 FinanceAI
-
-**Personal Finance Management Web Application**
-
-A full-stack application for managing income, expenses, budgets, savings goals and financial reports.
-
-**Built with**
+A web application for income and expense tracking, dashboards, budgets, savings goals and financial reporting.
 
 `Python` `Flask` `MySQL` `JavaScript` `REST API`
 
-**Key Features**
+**TRACK** → **ANALYZE** → **PLAN** → **REPORT**
 
-- 🔐 Authentication
-- 💵 Income & expense tracking
-- 📊 Dashboard analytics
-- 🎯 Budget & savings goals
-- 📈 Financial reports
-- 🤖 Financial insights
-- 👨‍💼 Admin panel
-
-<a href="https://finance-project-1-oyv6.onrender.com">Live Project →</a>
-
-</td>
-</tr>
-</table>
+[VIEW PROJECT →](https://finance-project-1-oyv6.onrender.com)
 
 ---
 
-# 📊 GitHub Activity
+## STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinjod&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjod&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jatinjod&hide_border=true&theme=transparent" width="65%"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,postgres,mysql,git,github,docker,postman,vscode" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+## ACTIVITY
 
 <div align="center">
 
-`Advanced Python` · `Backend Architecture` · `PostgreSQL` · `API Development`  
-`Automated Testing` · `Docker` · `Secure Development` · `AI/ML`
+<img src="https://github-readme-stats.vercel.app/api?username=jatinjod&show_icons=true&hide_border=true&bg_color=070d12&title_color=7dd3fc&text_color=cbd5e1&icon_color=55e6b3" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjod&layout=compact&hide_border=true&bg_color=070d12&title_color=7dd3fc&text_color=cbd5e1" height="165"/>
 
 </div>
 
 ---
 
-# 🎯 My Development Flow
-
 <div align="center">
 
-**IDEA** → **DESIGN** → **BUILD** → **TEST** → **DEPLOY** → **IMPROVE**
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/jatinjod">
-<img src="https://img.shields.io/badge/GitHub-jatinjod-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/jatin-064413383/">
-<img src="https://img.shields.io/badge/LinkedIn-Jatin-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+**BUILD** · **TEST** · **SHIP** · **IMPROVE**
 
 <br/><br/>
 
-### <i>BUILD • TEST • SHIP • IMPROVE</i>
+<a href="https://github.com/jatinjod">GITHUB</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jatin-064413383/">LINKEDIN</a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
