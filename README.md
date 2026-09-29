@@ -114,7 +114,7 @@ A security-focused platform that scans source code and converts detected issues 
 - 🧪 Automated testing
 - 🖥️ Dashboard & admin workflows
 
-<a href="https://github.com/jatinjod/SentinelAI">View Repository →</a>
+<a href="https://github.com/jatinjod/SentinelAI">📦 Repository</a> · <a href="https://sentinelai-frontend-t31x.onrender.com/">🌐 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +139,7 @@ A full-stack application for managing income, expenses, budgets, savings goals a
 - 🤖 Financial insights
 - 👨‍💼 Admin panel
 
-<a href="https://finance-project-1-oyv6.onrender.com">Live Project →</a>
+<a href="https://github.com/jatinjod/finance-project">📦 Repository</a> · <a href="https://finance-project-1-oyv6.onrender.com">🌐 Live Demo</a>
 
 </td>
 </tr>
